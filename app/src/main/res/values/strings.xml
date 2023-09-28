@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="bottom_bar_product">Produtos</string>
+    <string name="bottom_bar_orders">Meus Pedidos</string>
+    <string name="bottom_bar_cart">Carrinho</string>
+    <string name="description_cart">carrinho</string>
+    <string name="description_orders">meus pedidos</string>
+    <string name="description_items">produtos</string>
+</resources>
